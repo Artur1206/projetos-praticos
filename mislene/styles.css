@@ -1,0 +1,38 @@
+.bg-menu{
+    background-color: green;
+    color: #fff;
+}
+
+.li{
+    color: #fff;
+    padding: 1rem;
+}
+
+.folha{
+    color: #fff;
+}
+.pergunta{
+    text-align: center;
+    font-size: 48;
+    color: green;
+}
+
+.marque{
+    text-align: center;
+}
+.button{
+    background-color: green;
+    color: #fff;
+}
+.div2{
+    text-align: center;
+}
+.footer{
+    padding: 2rem;
+    background-color: darkgreen;
+    color: #fff;
+}
+
+.footerp{
+    text-align: center;
+}
