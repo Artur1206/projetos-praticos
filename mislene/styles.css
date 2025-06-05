@@ -3,6 +3,16 @@
     color: #fff;
 }
 
+.accordion-button {
+    background-color: lightgray;
+    padding: 10px;
+    text-decoration: none;
+    color: black;
+  }
+
+  .accordion-button:active {
+    background-color: gray;
+  }
 .li{
     color: #fff;
     padding: 1rem;
@@ -25,6 +35,8 @@
     color: #fff;
 }
 .div2{
+    padding: 5rem;
+    background-color: #b7d2b6;
     text-align: center;
 }
 .footer{
